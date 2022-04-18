@@ -1,20 +1,7 @@
 # Shakespeare-Shiny
 Created a shiny application that investigated word counts throughout Shakespeare Plays
 
-
-
-
-
-
-
-
-
-Test
-
-
-
-
-
-
-
-test2
+## How to re-create the application
+1. Download the Shakespeare folder
+2. Open the R Project
+3. Run the application
